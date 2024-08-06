@@ -11,3 +11,9 @@ Hi there! I'm Samson, a passionate learner from Umuzi, and I'm excited to dive i
 - 🌐 What is Node.js?
 - 🛠️ Setting up Node.js and npm
 - 📚 Writing and running a basic Node.js script
+
+**Day 2: Modules and Packages**
+
+- 📦 Understanding CommonJS modules
+- 🔄 Using require and module.exports
+- ✨ Exploring npm packages and dependencies
